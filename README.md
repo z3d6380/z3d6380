@@ -1,3 +1,5 @@
+![Luis Moraguez_banner](https://user-images.githubusercontent.com/73666574/209205657-e2002d3b-29a4-4081-aa54-d66de2757fea.png)
+
 <!--Followers-->
 
 ![GitHub followers](https://img.shields.io/github/followers/z3d6380?style=social)
