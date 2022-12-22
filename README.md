@@ -7,7 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/luismoraguez)
 
 <!--Welcome Message-->
-#### 👋 Hi, there I'm Luis Moraguez. I'm in the process of transitioning from a rewarding 10+ year career in IT to Computer Science/Software Development/Production Engineering. I love to learn new technologies and to share my knowledge with others. Lately, I've been working with my fullstack skills and production engineering skills, as well as finding ways to contribute to open-source in my free time.
+#### 👋 Hi, there I'm Luis Moraguez. I'm in the process of transitioning from a rewarding 10+ year career in IT to Computer Science/Software Development/Production Engineering. I love to learn new technologies and to share my knowledge with others. Lately, I've been working with my full-stack skills and production engineering skills, as well as finding ways to contribute to open-source in my free time.
 
 <!-- GitHub Stats -->
 
