@@ -1,4 +1,4 @@
-![Luis Moraguez_banner2](https://user-images.githubusercontent.com/73666574/209448346-198fc512-0dea-4030-ad04-d8bcd00b8ed0.png)
+![Luis Moraguez_banner2](https://user-images.githubusercontent.com/73666574/209448531-6e1e16b1-7e82-49b1-ac48-5335a078e7f2.png)
 
 <!--Followers-->
 
